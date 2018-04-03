@@ -1,0 +1,24 @@
+[09-Feb-2018 10:51:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/sanjhnew/public_html/beta/wp-content/themes/woohoo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/sanjhnew/public_html/beta/wp-content/themes/woohoo/index.php on line 1
+[01-Mar-2018 09:06:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php on line 1
+[09-Mar-2018 02:41:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php on line 1
+[12-Mar-2018 02:26:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php on line 1
+[14-Mar-2018 04:54:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php on line 1
+[26-Mar-2018 00:19:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/sanjhnew/public_html/wp-content/themes/woohoo/index.php on line 1
